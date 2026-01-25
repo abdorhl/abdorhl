@@ -63,9 +63,6 @@ curious. precise. slightly glitchy.
   <a href="https://www.linkedin.com/in/abdellatif-rhahli/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30"/>
   </a>
-  <a href="https://twitter.com/pippaaw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30"/>
-  </a>
   <a href="https://discord.gg/z4VwmRmU" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30"/>
   </a>
