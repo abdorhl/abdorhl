@@ -3,9 +3,12 @@ Hi 👋 I’m Abdellatif
 </h2>
 
 <p align="left">
-Mathematician by training • Software Engineer by practice  
+Mathematician by training • Software Engineer by practice 
+</p> 
+<p>
 I model systems, question assumptions, and explore how things fail.
 </p>
+
 
 <br clear="both">
 
