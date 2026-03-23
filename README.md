@@ -1,9 +1,9 @@
 <h2 align="left">
-Hi 👋 I’m Abdellatif  
+Hi, I'M abdu aka p1p4w lol
 </h2>
 
 <p align="left">
-Mathematician by training • Software Engineer by practice 
+Mathematician by training | Software Engineer by practice 
 </p> 
 <p>
 I model systems, question assumptions, and explore how things fail.
