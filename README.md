@@ -16,7 +16,7 @@ I model systems, question assumptions, and explore how things fail.
 
 ---
 
-### 🧠 how I think
+### how I think
 - I don’t chase bugs — I chase **broken assumptions**
 - Vulnerabilities are side effects of **context**
 - I care less about *what* breaks, more about *why it becomes useful*
